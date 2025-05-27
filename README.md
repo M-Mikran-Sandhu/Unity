@@ -10,7 +10,7 @@ This game is developed and maintained by [M-Mikran-Sandhu](https://github.com/M-
 
 The project started as a learning exercise in Unity but has evolved into a polished, arcade-style shooter with responsive controls, AI opponents, and an engaging gameplay loop.
 
-![Gameplay Screenshot](Assets/Screenshots/gameplay.png) <!-- Replace with real image -->
+
 
 ## 🧩 Features
 
